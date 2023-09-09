@@ -1,0 +1,83 @@
+.container{
+    margin-bottom: 80px;
+}
+.orange-a{
+    text-decoration: none;
+    color: orange;
+}
+
+.signbtn{
+    width: 120px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    border-radius: 33px;
+    background: #21B573;
+    margin-left: 20px;
+    padding: 10px 58px;
+    padding-left: 50px;
+
+}
+
+.fsz{
+    font-size: 50px;
+}
+.buy-now-button{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+footer{
+    text-align: center;
+}
+.btnpd{
+    padding: 6px 25px;
+    border-radius: 50px;
+}
+.mrl{
+    margin-left: 15px;
+}
+
+.igmc{
+    margin-left: 80px;
+}
+.mrt{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.sd{
+    box-shadow:2px 8px 10px lightgray;
+}
+.card{
+    box-shadow:2px 8px 15px lightgray;
+    border-radius: 15px;
+}
+.crdfm{
+    margin-top: 10px;
+    background-color: white;
+    border-top: none;
+}
+.crdfm img{
+    width: 30px;
+}
+.mtb{
+    margin: 70px 0;
+}
+.imgs img{
+    width: 150px;
+    margin-right: 20px;
+}
+.imgs{
+    width: 700px;
+}
+.bgft{
+    background-color: #161314e5;
+    color: white;
+    padding: 50px 80px;
+}
